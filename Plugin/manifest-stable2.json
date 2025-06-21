@@ -8,6 +8,14 @@
     "category": "Metadata",
     "imageUrl": "https://ghfast.top/https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/images/Jellyfin.MeiamSub.Shooter.png",
     "versions": [
+            {
+        "version": "1.0.10.0",
+        "changelog": "### 适配新版 Jellyfin ###\n",
+        "targetAbi": "10.9.2.0",
+        "sourceUrl": "https://ghfast.top/https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Shooter_1.0.10.0.zip",
+        "checksum": "C9893AF4F37AF67D977FD0E8B53F1225",
+        "timestamp": "2024-06-06T14:43:43Z"
+      },
       {
         "version": "1.0.9.0",
         "changelog": "### 修复无法查询无字幕问题 ###\n",
@@ -15,14 +23,6 @@
         "sourceUrl": "https://ghfast.top/https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Shooter_1.0.9.0.zip",
         "checksum": "94B74817E8EAE6ADBD121CA72305A0FB",
         "timestamp": "2023-02-09T12:43:43Z"
-      },
-      {
-        "version": "1.0.10.0",
-        "changelog": "### 适配新版 Jellyfin ###\n",
-        "targetAbi": "10.9.2.0",
-        "sourceUrl": "https://ghfast.top/https://github.com/91270/MeiamSubtitles.Release/raw/main/Plugin/Jellyfin.MeiamSub.Shooter_1.0.10.0.zip",
-        "checksum": "C9893AF4F37AF67D977FD0E8B53F1225",
-        "timestamp": "2024-06-06T14:43:43Z"
       },
       {
         "version": "1.0.11.0",
